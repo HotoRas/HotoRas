@@ -2,12 +2,11 @@
 - [Homepage v2.0.1+20250120(korean)](https://hotoras.kr)
 - [Blog v4.0.0+20250115(korean)](https://blog.hotoras.kr)
 - Fediverse
-    - [nekoplanet](https://nekoplanet.xyz/@ras "@ras@nekoplanet.xyz")
+    - [serafuku-moe](https://serafuku.moe/@ras "@ras@serafuku.moe")
 
 ## I'm on
 - Newcomer of the Department of Media-Software in Sungkyul University, Anyang, Korea Rep.  
 (Break for Militery service; Ought to return on lect. 2026H1)
-- Codespace Core Management on Nekoplanet Constal Council; since Apr.2024
 
 ## Projects I've worked on
 - [Misskey (nekoplanet.xyz)](https://github.com/nekoplanet/misskey)([homepage](https://nekoplanet.xyz "nekoplanet"))
