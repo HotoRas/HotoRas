@@ -5,30 +5,29 @@
     - [serafuku-moe](https://serafuku.moe/@ras "@ras@serafuku.moe")
 
 ## I'm on
-- Newcomer of the Department of Media-Software in Sungkyul University, Anyang, Korea Rep.  
-(Break for Militery service; Ought to return on lect. 2026H1)
+- 2nd Grade of the Department of Media-Software in Sungkyul University, Anyang, Korea Rep.
 
 ## Projects I've worked on
-- [Misskey (nekoplanet.xyz)](https://github.com/nekoplanet/misskey)([homepage](https://nekoplanet.xyz "nekoplanet"))
-- [Vue static homepage (council.nekoplanet.xyz)](https://github.com/nekoplanet/council.nekoplanet.xyz)([go](https://council.nekoplanet.xyz "nekoplanet council"))
+- [Misskey (nekoplanet.xyz)](https://github.com/nekoplanet/misskey)
+- [Vue static homepage (council.nekoplanet.xyz)](https://github.com/nekoplanet/council.nekoplanet.xyz)
 - [MFM(Markup for Misskey) extension for MarkedJS](https://github.com/HotoRas/mfm-marked-extension)([npm: mfm-marked-extension](https://www.npmjs.com/package/mfm-marked-extension "mfm-marked-extension"))
 
 ### Toy projects and patches
 - [Misskey ESLint extension patch for Node 20+](https://github.com/misskey-dev/eslint-plugin-misskey-dev/commit/b8c2324b7ff682128a68acbb2b7298bf05713f66)
 - [Misskey mfm.js plugin patch for nekoplanet](https://github.com/nekoplanet/mfm.js)([npm: @nekoplanet/mfm-js](https://www.npmjs.com/package/@nekoplanet/mfm-js "@nekoplanet/mfm-js"))
-- [Arclight Patcher plugin, for WorldEdit plugin](https://github.com/HotoRas/arclightpatcher-worldedit)([original: ArclightPowered/patcher](https://github.com/ArclightPowered/patcher))
+- [Arclight Patcher plugin, for WorldEdit plugin](https://bitbucket.org/hotoras/arclightpatcher-worldedit)([original: ArclightPowered/patcher](https://github.com/ArclightPowered/patcher))
 - [Naver Papago API frontend for Python 3.11+](https://github.com/HotoRas/naver-translation-localapp)
 
 ## skills
 > TODO: Update these in image
 ### Web
-- HTML5 [B-]
-- CSS3 [C+]
+- HTML5 [B0]
+- CSS3 [B-]
 - Javascript [C0]
 
 ### Markup
 - Mainly uses Markdown [A0]
-- Wikimedia Mediawiki Markup Language [C-]
+- Wikimedia Mediawiki Markup Language [C0]
 
 ### Environments and Frameworks
 - Node.JS:
@@ -45,11 +44,11 @@
     * C#.NET [A-]
         - Mostly on C++ grammar, but able to expand and make service
 - Native Programming:
-    * C and C++ [C+]
+    * C and C++ [B0]
         - Have learnt the lecture; able to manage the codespace but expanding them is unknown
-    * Rust [F]
+    * Rust [D-]
         - Ought to learn this stack...
-    * C# on Unity [B0]
+    * C# on Unity [B+]
         - Unity is AWESOME, as like of CSS
 
 ### Artworks
@@ -62,4 +61,4 @@
 - Have no sense editing'em tho
 
 ## Other links
-[YouTube](https://youtube.com/@hoto_ras) [X (formally Twitter)](https://x.com/hoto_ras)
+[YouTube](https://youtube.com/@hotoras) [X (formally Twitter)](https://x.com/hotoras)
